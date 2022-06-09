@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.lectricas.ideaunknownlang.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.lectricas.ideaunknownlang.MyBundle
 
 class MyApplicationService {
 
